@@ -3,3 +3,6 @@
 playcalling strategies and identify trends in 3rd-down distance-to-go & conversion success rates across all 32 teams. 
 • Conducted data preprocessing, statistical analysis, and data visualization to deliver actionable insights on team
 specific playcalling tendencies, optimizing offensive efficiency for professional-level decision-making. 
+
+This analysis uses the nfl_data_py library.
+nfl_data_py: https://github.com/cooperdff/nfl_data_py
